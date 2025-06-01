@@ -1,0 +1,7 @@
+{
+    "key": "discord bot key",
+    "OPENAI" : "openai api key",
+    "genai" : "gemini api key",
+    "admin": [
+    ]
+}
