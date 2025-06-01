@@ -1,0 +1,6 @@
+{
+        "enter guild id here": {
+                "guild_name": "enter guild name here",
+                "Voice_State": "True or False"
+        }
+}
