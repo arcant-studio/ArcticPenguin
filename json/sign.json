@@ -1,0 +1,6 @@
+{
+    "enter user id here": {
+        "day": "yyyy/mm/dd",
+        "count": "number"
+    }
+}
