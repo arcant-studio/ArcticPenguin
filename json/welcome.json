@@ -1,0 +1,14 @@
+{
+    "Example(here enter your group id)": {
+        "GROUPname": "Enter your group name here.",
+        "CH_welcome": "Enter the channel id which you want to send welcome message.",
+        "welcome_MSG": {
+            "title": "Welcome message embed title.",
+            "description": "Welcome message embed discription.",
+            "author": {
+                "name": "Welcome message embed author name."
+            },
+            "images": "message image"
+        }
+    }
+}
